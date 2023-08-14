@@ -1,4 +1,4 @@
-### Hello there, my name is Tata Gudilina
+### Hello there, my name is Tata
 #### I’m interested in Data analytics and Machine Learning 
 
 Skills: Python, SQL, Tableau
